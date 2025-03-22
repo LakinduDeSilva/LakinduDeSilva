@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">With five years of coding experience and a passion for Full Stack development and app design, I'm a university student always eager to learn and collaborate.<br><br>✉️  You can contact me at lakindumuthsanda123@gmail.com<br>🚀  I'm currently working on Infratrack<br>🧠  I'm learning SpringBoot<br>🤝  I'm open to collaborating on innovative ideas and building cool software.</p>
+<p align="left">With five years of coding experience and a passion for Full Stack development and Sooftware development, I'm a university student always eager to learn and collaborate.<br><br>✉️  You can contact me at lakindumuthsanda123@gmail.com<br>🚀  I'm currently working on Infratrack<br>🧠  I'm learning SpringBoot<br>🤝  I'm open to collaborating on innovative ideas and building cool software.</p>
 
 ###
 
